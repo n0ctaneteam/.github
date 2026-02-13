@@ -9,7 +9,7 @@ We create projects that push boundaries while staying practical, minimal, and pe
 ## 🚀 Projects
 
 ### 🌙 N0ctOS
-An Arch-based Linux distribution focused on speed, customization, and a clean nocturnal aesthetic. Coming Soon!!
+An **Arch-based Linux distribution** focused on speed, customization, and a clean nocturnal aesthetic; For **New linux users, developers, daily drivers etc.** Coming Soon!!
 
 > More projects coming soon.
 
@@ -22,8 +22,9 @@ Our goal is to:
 - Build lightweight and efficient software
 - Create tools for developers and power users
 - Encourage open-source collaboration
-- Experiment with modern system design
 - Maintain clean and maintainable codebases
+- Create unique user experiences for everyone
+- **Chill in life**
 
 ---
 
@@ -33,12 +34,16 @@ We welcome contributions from the community.
 
 If you'd like to contribute:
 
-1. Fork the repository of the project
-2. Create a feature branch
-3. Commit your changes
-4. Submit a pull request
+1. First read the instructions, architecture and rules before hand
+2. Always make a new branch in format of \[source-branch\]-\<details, why or what\> e.g. main-fix_this_that
+3. Wait for approval of pull requests
+4. Regularly Pull the \[source-branch\] from which you made the new branch (no merge conflicts)
 
-Please follow project guidelines and keep commits clear and documented.
+It doesn't mean that writing code it contribution...
+You can also be a:
+1. maintainer (merge requests manager)
+2. QA & Tester (test stuff)
+3. Support member (help people on Discord/Reddit)
 
 ---
 
@@ -46,6 +51,7 @@ Please follow project guidelines and keep commits clear and documented.
 
 - **N0ctane._.Dev**
 - **anagh.exe**
+> waiting for more like.. you ?
 
 ---
 
@@ -54,11 +60,12 @@ Please follow project guidelines and keep commits clear and documented.
 Our projects may involve:
 
 - Linux system development
-- Python
-- Shell scripting
-- Qt / GUI frameworks
-- System automation
-- Open-source tooling
+- Software development
+- WebTech development
+- Docs and Tutorials
+- Utility Stuff
+  
+> developing the stuff, that doesn't exist (did anyone said Wifies ARG ?) 
 
 ---
 
