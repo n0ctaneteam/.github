@@ -51,7 +51,7 @@ You can also be a:
 
 - **N0ctane._.Dev**
 - **anagh.exe**
-> waiting for more like.. you ?
+> waiting for more people... someone like... you ?
 
 ---
 
